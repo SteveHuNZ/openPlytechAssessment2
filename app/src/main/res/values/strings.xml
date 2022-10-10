@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BIT603_A2_SteveHu</string>
+    <string name="invalid_add_item_input">Invalid name/quantity</string>
+    <string name="failed_msg">Failed</string>
+    <string name="add_success">Added Successfully!</string>
+    <string name="invalid_login_input">Invalid username/password</string>
+    <string name="menu_welcome">Welcome %1$s</string>
+    <string name="add_name_hint">Name</string>
+    <string name="add_quantity_hint">Quantity</string>
+    <string name="add_save_btn">Save</string>
+    <string name="login_welcome">Welcome</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_btn">Log In</string>
+    <string name="menu_inventory_status_btn">Inventory status</string>
+    <string name="menu_add_items_to_inventory_btn">Add items to inventory</string>
+    <string name="menu_logout_btn">Log Out</string>
+    <string name="inventory_management">Inventory Management</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BIT603_A2_SteveHu.iml" filepath="$PROJECT_DIR$/.idea/modules/BIT603_A2_SteveHu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BIT603_A2_SteveHu.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
